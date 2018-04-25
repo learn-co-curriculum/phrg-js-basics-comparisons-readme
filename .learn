@@ -11,3 +11,5 @@ languages:
   - javascript
 resources:
   - 4
+
+parent_template: git@github.com:learn-co-curriculum/js-basics-comparisons-readme.git
