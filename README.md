@@ -122,6 +122,10 @@ Strings are compared with other strings lexicographically, meaning character-by-
 
 ***Top Tip***: Stick to comparing numerical values with the relational operators and you'll be golden.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-comparisons-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-comparisons-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - MDN
   + [Comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
